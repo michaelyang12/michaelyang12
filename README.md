@@ -1,4 +1,4 @@
-### Hello 👋
+### 
 
 I'm **Michael Yang**, a current senior at Washington University in St. Louis and an experienced Front End Developer and QA Engineer. I have regularly used front-end frameworks like React and Angular to create responsive web applications, as well as utilizing Selenium and JBehave to create automated QA tests to ensure features are stable and functional.
 
